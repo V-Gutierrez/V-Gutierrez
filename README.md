@@ -1,7 +1,6 @@
 
 ## 🌐Socials
 https://linkedin.com/in/victtorgutierrez <br/>
-https://dev.to/vgutierrez
 
 # 📊GitHub Stats :
 ![](https://github-readme-streak-stats.herokuapp.com/?user=v-gutierrez&theme=algolia&hide_border=false)
