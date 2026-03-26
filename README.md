@@ -14,6 +14,8 @@ I write code, lead migrations, and ship open-source tools that solve problems I 
 
 ☝️ **[AirMouse](https://github.com/V-Gutierrez/AirMouse)** — Control your Mac with hand gestures.
 
+🎨 **[Air Canvas](https://github.com/V-Gutierrez/air-canvas)** — Draw in the air with your hands. Built for kids.
+
 ---
 
 #### Recent
