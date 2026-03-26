@@ -18,11 +18,4 @@ I write code, lead migrations, and ship open-source tools that solve problems I 
 
 ---
 
-#### Recent
-
-- Contributed to [OpenClaw](https://github.com/openclaw/openclaw) — credited in the official changelog
-- Led 2 enterprise platform migrations in <12 months
-
----
-
 [Blog](https://victorgutierrez.com.br) · [LinkedIn](https://linkedin.com/in/victtorgutierrez) · [Twitter](https://x.com/victorgut1errez) · [Bluesky](https://bsky.app/profile/victorgutierrezz.bsky.social) · [Substack](https://victorgutierrez.substack.com) · [Instagram](https://instagram.com/victorgut1errez)
