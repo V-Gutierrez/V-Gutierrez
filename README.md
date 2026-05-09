@@ -1,8 +1,10 @@
 ### Hey 👋
 
-Staff Software Engineer building systems that serve 17M+ users.
+Software Engineer building stuff
 
-I write code, lead migrations, and ship open-source tools that solve problems I face every day.
+I write code, craft huge migrations, and ship open-source tools that solve problems I face every day.
+
+Welcome! 
 
 ---
 
