@@ -16,6 +16,8 @@ Welcome!
 
 🪨 **Consi** - Customizable and Scalable Personal AI Assistant (OpenClaw Fork) - Closed-source for now
 
+📖 **[faith](https://github.com/V-Gutierrez/faith] - A Bible CLI made for AGENTS! 
+
 ---
 
 [Blog](https://victorgutierrez.com.br) · [LinkedIn](https://linkedin.com/in/victtorgutierrez) · [Twitter](https://x.com/victorgut1errez) · [Bluesky](https://bsky.app/profile/victorgutierrezz.bsky.social) · [Substack](https://victorgutierrez.substack.com) · [Instagram](https://instagram.com/victorgut1errez)
