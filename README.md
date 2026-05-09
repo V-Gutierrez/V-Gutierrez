@@ -16,7 +16,7 @@ Welcome!
 
 🪨 **Consi** - Customizable and Scalable Personal AI Assistant (OpenClaw Fork) - Closed-source for now
 
-📖 **[faith](https://github.com/V-Gutierrez/faith]** - A Bible CLI made for AGENTS! 
+📖 **[faith](https://github.com/V-Gutierrez/faith)** — A Bible CLI made for AGENTS!
 
 ---
 
