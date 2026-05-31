@@ -14,7 +14,7 @@ Welcome!
 
 ⚡ **[gw](https://github.com/V-Gutierrez/gw)** — Google Workspace CLI. Gmail, Calendar, Drive, Sheets, Docs.
 
-🪨 **Consi** - Customizable and Scalable Personal AI Assistant (OpenClaw Fork) - Closed-source for now
+🪨 **[Consi](https://victorgutierrez.com.br/consi)** - Customizable and Scalable Personal AI Assistant (OpenClaw Fork) - Closed-source for now
 
 📖 **[faith](https://github.com/V-Gutierrez/faith)** — A Bible CLI made for AGENTS!
 
