@@ -18,6 +18,8 @@ Welcome!
 
 📖 **[faith](https://github.com/V-Gutierrez/faith)** — A Bible CLI made for AGENTS!
 
+🎨 **[pharmony](https://github.com/V-Gutierrez/pharmony)** — Semantic photo search for Apple Photos. CLIP + FAISS + MLX, 100% local.
+
 ---
 
 [Blog](https://victorgutierrez.com.br) · [LinkedIn](https://linkedin.com/in/victtorgutierrez) · [Twitter](https://x.com/victorgut1errez) · [Bluesky](https://bsky.app/profile/victorgutierrezz.bsky.social) · [Substack](https://victorgutierrez.substack.com) · [Instagram](https://instagram.com/victorgut1errez)
