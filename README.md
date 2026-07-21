@@ -16,7 +16,7 @@ Welcome!
 
 🪨 **[Consi](https://victorgutierrez.com.br/consi)** - Customizable and Scalable Personal AI Assistant (OpenClaw Fork) - Closed-source for now
 
-📖 **[faith](https://github.com/V-Gutierrez/faith)** — A Bible CLI made for AGENTS!
+📖 **[faith](https://github.com/V-Gutierrez/faith)** — A Bible CLI made for AGENTS! (It powers solodiario.com)
 
 🎨 **[pharmony](https://github.com/V-Gutierrez/pharmony)** — Semantic photo search for Apple Photos. CLIP + FAISS + MLX, 100% local.
 
