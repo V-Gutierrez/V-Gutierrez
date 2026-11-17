@@ -1,6 +1,6 @@
 ### Hey 👋
 
-Software Engineer (Computer Engineer in formation) building stuff
+Software Engineer building stuff! 
 
 I write code, craft huge migrations, and ship open-source tools that solve problems I face every day.
 
